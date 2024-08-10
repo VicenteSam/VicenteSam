@@ -4,8 +4,8 @@
 ------------------------------------------------------------------------------------------------------------------
 
 - 📚 Computer Science studant at UFRR
-- 🔎 Studying Java, Python and everything that i love
-- 🧩 My plan is to be a good professional at technology area
+- 🔎 Studying Java, Python and 'what give on the tile' (o que der na telha)
+- 🧩 Goal: patience
 
 ### 💻 Language and Tools
 ------------------------------------------------------------------------------------------------------------------
